@@ -15,7 +15,7 @@ Available in sourcecode, both the Merikens and the MTY trippers output tripcode 
 
 I will be working on porting his code over to the Linux platform, and will offer it back to Meriken when that effort is completed.
 
-In the interim, Windows is the only platform currently supported. Choose whatever platform you're on (x86 or x64), and set the patterns for your tripcodes in the patterns.txt file, then just run the tripcode engine's exe from the command line. The defaults (no command line options) seems to work fine as a good starting point. Statistics and performance metrics are output to the console during the mining operation.
+In the interim, Windows is the only platform currently supported. Choose whatever platform you're on (x86 or x64), and set the patterns for your tripcodes in the patterns.txt file, then just run the tripcode engine's exe from the command line. The defaults (no command line options) seems to work fine as a good starting point. Statistics and performance metrics are output to the console during the tripcode mining operation.
 
 2014-02-04
 <'LLD~<3
