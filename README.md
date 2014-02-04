@@ -18,17 +18,21 @@ I will be working on porting the code over to Linux, and will offer it back to M
 
 In the interim, Windows is the only platform currently supported atp. Choose whatever platform you're on (x86 or x64), and set the pattern for your tripcode in the patterns.txt file, the just run the tripcode engine from the command line. The defaults (no command line options) seems to work fine. Statistics and performance metrics are output for you during the mining operation.
 
+<'LLD~<3
+2014-02-04
+
 SUPPORT ISSUES:
+=============
 
-Be sure to have recent drivers for your video card installed.
+* Be sure to have recent drivers for your video card installed.
 
-Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are currently available from Microsoft at:
+* Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are currently available from Microsoft at:
 
-Microsoft Visual C++ 2010 Redistributable Package (x64) 
-http://www.microsoft.com/en-us/download/details.aspx?id=14632
+  Microsoft Visual C++ 2010 Redistributable Package (x64) 
+  http://www.microsoft.com/en-us/download/details.aspx?id=14632
 
-Microsoft Visual C++ 2010 Redistributable Package (x86)
-http://www.microsoft.com/en-us/download/details.aspx?id=5555
+  Microsoft Visual C++ 2010 Redistributable Package (x86)
+  http://www.microsoft.com/en-us/download/details.aspx?id=5555
 
-Microsoft .NET Framework 4 is also required, and is also probably on your system already. Use the Windows Update facility to install it if not.
+* Microsoft .NET Framework 4 is also required, and is also probably on your system already. Use the Windows Update facility to install it if not.
 
