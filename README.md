@@ -16,7 +16,7 @@ Available in sourcecode, both the Meriken and MTY trippers use input tripcode pa
 I will be working on porting his code over to the Linux platform, and will offer it back to Meriken when that port is completed. In the interim, Windows is the only platform currently supported.
 
 
-Please let us know if you have any issues running the Meriken engine correctly. Also, we totally welcome any creative ideas!
+Please let us know if you have any issues running the Meriken engine correctly. Also, any creative ideas are totally welcome!!
 
 
 Enjoy! <'LLD~<3
