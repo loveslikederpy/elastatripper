@@ -27,7 +27,7 @@ usage:
 * and set the patterns for your tripcodes in the patterns.txt file, 
 * then just run the tripcode engine's exe from the command line. 
 
-The defaults (no command line options) seems to work fine as a good starting point. Tripcodes mined, statistics and performance metrics are also output to the console during the tripcode mining operation.
+The defaults (no command line options) seems to work fine as a good starting point. Tripcodes mined, statistics and performance metrics and estimates are also output to the console during the tripcode mining operation.
 
 support issues:
 =============
