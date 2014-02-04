@@ -4,10 +4,10 @@ The Elastic Tripcode Mining Kernel
 
 =============
 
-One of the goals for the Tripcode@Home project is to modularize the 3 primary parts of the system:
-* 1) The Elastatripper
-* 2) The Tripperman
-* 3) The Cloudtripper
+One of the goals for the Tripcode@Home project is to modularize the 3 primary parts of the Tripcode@Home system:
+* The Elastatripper
+* The Tripperman
+* The Cloudtripper
 
 The intention is to keep these separated as much as is feasible, and communicating together through simple, established mechanisms. Since one of the easiest and most well established mechanisms available is simple textfiles, it makes sense that all three modules should be able to communicate together using this basic approach.
 
