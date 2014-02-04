@@ -1,4 +1,4 @@
 elastatripper
 =============
 
-The Elastic Tripcode Generator
+The Elastic Tripcode Mining Kernel

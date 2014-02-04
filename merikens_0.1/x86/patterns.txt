@@ -1,0 +1,46 @@
+# Meriken's Tripcode Engine English
+# Copyright (c) 2011-2013 Meriken <meriken.2ch@gmail.com>
+#
+# - Specify only one pattern in each line.
+# - Patterns must be at least 5 characters in length.
+# - Patterns that are too long will be ignored.
+# - Strings after '#' are treated as comments.
+
+
+
+# Specify non-regex patterns after the "#noregex" directive.
+# You can only use [A-Za-z0-9./] for patterns.
+
+#noregex
+
+TEST/                   # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
+
+
+
+# Specify regex patterns after the "#regex" directive.
+# The following operators and specifiers are available for use:
+# 
+#     ^ $ () | [] [^] . + * ? \ {n} {m,n} \n
+#     [:alpha:] [:upper:] [:lower:] [:digit:] [:alnum:] [:punct:]
+# 
+# It is encouraged to use '^' whenever possible to achieve maximum
+# search speed.
+
+#regex
+
+#^TEST/                 # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
+#/TEST$                 # Matches "!15ycs/TEST", "!wtra5/TEST", etc.
+#/TEST/                 # Matches "!y/TEST/5uj", "!anj/TEST/.", etc.
+#^[0-9]*$               # Matches "!8710915015", "!9104552720", etc.
+#^([:upper:]{5})\1$     # Matches "!IOPAFIOPAF", "!UIABTUIABT", etc.
+#^[Mm]eriken[:punct:]   # Matches "!meriken/u6", "!Meriken.qe", etc.
+
+
+
+#ignore
+Lines between "#ignore" are "#endignore" will be ignored.
+#endignore
+
+
+
+# You cannot specify a pattern in the last line.
