@@ -21,7 +21,7 @@ In the interim, Windows is the only platform currently supported atp. Choose wha
 <'LLD~<3
 2014-02-04
 
-SUPPORT ISSUES:
+support issues:
 =============
 
 * Be sure to have recent drivers for your video card installed.
