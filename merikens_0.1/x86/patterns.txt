@@ -13,9 +13,11 @@
 
 #noregex
 
-TEST/                   # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
-
-
+#TEST/                   # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
+#derp
+#kitty
+#noko
+#plebe
 
 # Specify regex patterns after the "#regex" directive.
 # The following operators and specifiers are available for use:
@@ -27,6 +29,11 @@ TEST/                   # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
 # search speed.
 
 #regex
+
+[dD][eE3][rR][pP]
+[kK][iI1][tT][tT][yY]
+[nN][oO0][kK][oO0]
+[pP][lL1][eE3][bB][eE3]
 
 #^TEST/                 # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
 #/TEST$                 # Matches "!15ycs/TEST", "!wtra5/TEST", etc.
