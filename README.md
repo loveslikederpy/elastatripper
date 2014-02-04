@@ -27,9 +27,9 @@ support issues:
 
 * Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are currently available from Microsoft at:
 
-  Microsoft Visual C++ 2010 Redistributable Package (x64) 
+  * Microsoft Visual C++ 2010 Redistributable Package (x64) 
   http://www.microsoft.com/en-us/download/details.aspx?id=14632
-  Microsoft Visual C++ 2010 Redistributable Package (x86)
+  * Microsoft Visual C++ 2010 Redistributable Package (x86)
   http://www.microsoft.com/en-us/download/details.aspx?id=5555
 
 * Microsoft .NET Framework 4 is also required, and is also probably on your system already. Use the Windows Update facility to install it if not.
