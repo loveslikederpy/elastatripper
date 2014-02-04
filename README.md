@@ -5,13 +5,13 @@ The Elastic Tripcode Mining Kernel
 =============
 
 One of the goals for the Tripcode@Home project is to modularize the 3 primary parts of the system:
-1) The Elastatripper
-2) The Tripperman
-3) The Cloudtripper
+* 1) The Elastatripper
+* 2) The Tripperman
+* 3) The Cloudtripper
 
 The intention is to keep these separated as much as is feasible, and communicating together through simple, established mechanisms. Since one of the easiest and most well established mechanisms available is simple textfiles, it makes sense that all three modules should be able to communicate together using this basic approach.
 
-Available in sourcecode, both the Merikens and the MTY trippers output tripcode textfiles and use input pattern textfiles, and are suited as Elastatripper baselines using this text-only approach. Of these two Merikens is a) usable on both NVidia and AMD cards, and b) seems to have much better alignment with the general goals of Tripcode@Home. Therefore the choice is made to use the Meriken codebase as a foundation for this project. However the MTY codebase is also available, and any good optimizations available from this more established tripper will certainly be considered as approaches to use within Tripcode@Home.
+Available in sourcecode, both the Merikens and the MTY trippers output tripcode textfiles and use input pattern textfiles, and are suited as Elastatripper baselines using this text-only approach. Of these two Merikens is **a)** usable on both NVidia and AMD cards, and **b)** seems to have much better alignment with the general goals of Tripcode@Home. Therefore the choice is made to use the Meriken codebase as a foundation for this project. However the MTY codebase is also available, and any good optimizations available from this more established tripper will certainly be considered as approaches to use within Tripcode@Home.
 
 I will be working on porting the code over to Linux, and will offer it back to Meriken when that effort is completed.
 
