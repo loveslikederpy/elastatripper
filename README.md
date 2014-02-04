@@ -13,7 +13,7 @@ The intention is to keep these separated as much as is feasible, and communicati
 
 Available in sourcecode, both the Meriken and MTY trippers use input tripcode pattern textfiles and output tripcode results textfiles, and are suited as Elastatripper baselines for this text-only approach. Of these two Merikens is **a)** usable on both NVidia and AMD cards, and **b)** seems to have better alignment with the general goals of Tripcode@Home . Therefore the choice is made to use the Meriken codebase as a foundation for this project. However the MTY codebase is also available, and any good optimizations available from this more established tripper will certainly be considered as approaches to use within Tripcode@Home's Elastatripper. Any feedback on this choice is welcome, of course.
 
-I will be working on porting his code over to the Linux platform, and will offer it back to Meriken when that effort is completed. In the interim, Windows is the only platform currently supported.
+I will be working on porting his code over to the Linux platform, and will offer it back to Meriken when that port is completed. In the interim, Windows is the only platform currently supported.
 
 
 Please let us know if you have any issues running the Meriken engine correctly. Also, we totally welcome any creative ideas!
