@@ -4,7 +4,7 @@ The Elastic Tripcode Mining Kernel
 
 =============
 
-One of the primary goals for the Tripcode@Home project is to modularize the 3 independant parts of the Tripcode@Home system, since this will speed development (and probably debugging as well):
+One of the primary goals for the Tripcode@Home project is to modularize the 3 independant parts of the Tripcode@Home system, since this will ease distributed development (and probably debugging as well):
 * The Elastatripper
 * The Tripperman
 * The Cloudtripper
