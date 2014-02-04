@@ -18,7 +18,8 @@ I will be working on porting the code over to Linux, and will offer it back to M
 
 In the interim, Windows is the only platform currently supported atp. Choose whatever platform you're on (x86 or x64), and set the pattern for your tripcode in the patterns.txt file, the just run the tripcode engine from the command line. The defaults (no command line options) seems to work fine. Statistics and performance metrics are output for you during the mining operation.
 
-<'LLD~<32014-02-04
+<'LLD~<3
+2014-02-04
 
 support issues:
 =============
