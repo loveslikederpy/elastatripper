@@ -10,7 +10,7 @@ One of the goals for the Tripcode@Home project is to modularize the 3 primary pa
 2) The Tripperman
 3) The Cloudtripper
 
-The intention is to keep these separated as much is feasible, and communicating together through simple, established mechanisms. Since one of the most well established mechanisms available is simple text files, it makes sense that all three parts should be able to use this approach as a basic communication method.
+The intention is to keep these separated as much as is feasible, and communicating together through simple, established mechanisms. Since one of the most well established mechanisms available is simple text files, it makes sense that all three parts should be able to use this approach as a basic communication method.
 
 Available in sourcecode, both the Merikens and the MTY trippers output tripcode text files and use input pattern textfiles, and are therefore suited to use as initial Elastatripper kernel standins for this approach. Of these two Merikens is a) usable on both NVidia and AMD cards, and b) seems to have much better alignment with the general goals of Tripcode@Home. Therefore the choice is made to use the Meriken codebase as a foundation for this project. However the MTY codebase is also available, and any good optimizations available from this more established tripper will certainly be considered as approaches to use within Tripcode@Home.
 
