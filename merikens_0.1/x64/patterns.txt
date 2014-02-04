@@ -14,10 +14,10 @@
 #noregex
 
 #TEST/                   # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
-#derp
-#kitty
-#noko
-#plebe
+#Derpy
+#Kitty
+#Nokos
+#Plebe
 
 # Specify regex patterns after the "#regex" directive.
 # The following operators and specifiers are available for use:
@@ -30,9 +30,9 @@
 
 #regex
 
-[dD][eE3][rR][pP]
+[dD][eE3][rR][pP][yY]
 [kK][iI1][tT][tT][yY]
-[nN][oO0][kK][oO0]
+[nN][oO0][kK][oO0][sS5]
 [pP][lL1][eE3][bB][eE3]
 
 #^TEST/                 # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
