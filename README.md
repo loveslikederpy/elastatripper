@@ -4,7 +4,7 @@ The Elastic Tripcode Mining Kernel
 
 =============
 
-One of the primary goals for the Tripcode@Home project is to modularize the 3 independant parts of the Tripcode@Home system, since this will ease distributed development (and probably debugging as well):
+One of the primary goals for the overall project is to modularize the 3 independant parts of the Tripcode@Home system, since this will ease distributed development (and probably debugging as well):
 * The Elastatripper
 * The Tripperman
 * The Cloudtripper
@@ -25,7 +25,7 @@ support issues:
 
 * Be sure to have recent drivers for your video card installed.
 
-* Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are currently available from Microsoft at:
+* Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are available from Microsoft at:
 
   * Microsoft Visual C++ 2010 Redistributable Package (x64) 
   http://www.microsoft.com/en-us/download/details.aspx?id=14632
