@@ -32,5 +32,5 @@ support issues:
   * Microsoft Visual C++ 2010 Redistributable Package (x86)
   http://www.microsoft.com/en-us/download/details.aspx?id=5555
 
-* Microsoft .NET Framework 4 is also required, and is also probably on your system already. Use the Windows Update facility to install it if not.
+* Microsoft .NET Framework 4 is also required, and is also probably on your Windows system already. Use the Windows Update facility to install it if not.
 
