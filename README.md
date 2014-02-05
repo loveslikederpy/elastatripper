@@ -24,7 +24,7 @@ Enjoy! <'LLD~<3
 usage:
 =============
 * Choose whatever platform you're on (x86 or x64), 
-* and set the patterns for your tripcodes in the patterns.txt file (note: each pattern must have between 5-10 characters),
+* and set the patterns for your tripcodes in the patterns.txt file (note: each pattern must have between 5-10 output characters),
 * then just run the tripcode engine's exe from the command line. 
 
 The defaults (no command line options) seems to work fine as a good starting point for most rigs. Tripcodes mined, performance metrics, and output estimates are sent to the console during the tripcode mining operation.
