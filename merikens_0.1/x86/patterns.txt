@@ -34,6 +34,8 @@
 [kK][iI1][tT][tT][yY]
 [nN][oO0][kK][oO0][sS5]
 [pP][lL1][eE3][bB][eE3]
+[mM][oO0][sS5][tT][rR]
+[eE3][dD][dD][eE3][yY]
 
 #^TEST/                 # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
 #/TEST$                 # Matches "!15ycs/TEST", "!wtra5/TEST", etc.
