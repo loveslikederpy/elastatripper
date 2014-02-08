@@ -18,6 +18,9 @@
 #Kitty
 #Nokos
 #Plebe
+#Mostr
+#Eddey
+#Alstr
 
 # Specify regex patterns after the "#regex" directive.
 # The following operators and specifiers are available for use:
@@ -36,6 +39,7 @@
 [pP][lL1][eE3][bB][eE3]
 [mM][oO0][sS5][tT][rR]
 [eE3][dD][dD][eE3][yY]
+[aA][lL1]sS5][tT][rR]
 
 #^TEST/                 # Matches "!TEST/UH3.F", "!TEST/ZXVew", etc.
 #/TEST$                 # Matches "!15ycs/TEST", "!wtra5/TEST", etc.
