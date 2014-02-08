@@ -18,7 +18,7 @@
 #Kitty
 #Nokos
 #Plebe
-#Mostr
+#Mnstr
 #Eddey
 #Alstr
 
@@ -37,7 +37,7 @@
 [kK][iI1][tT][tT][yY]
 [nN][oO0][kK][oO0][sS5]
 [pP][lL1][eE3][bB][eE3]
-[mM][oO0][sS5][tT][rR]
+[mM][nN][sS5][tT][rR]
 [eE3][dD][dD][eE3][yY]
 [aA][lL1]sS5][tT][rR]
 
