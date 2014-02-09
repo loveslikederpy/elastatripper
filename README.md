@@ -32,6 +32,8 @@ The defaults (no command line options) seems to work fine as a good starting poi
 support issues:
 =============
 
+* Apparently this won't run on Windows 8 atm. WAAAH! D: Once the initial part of the migration to C++AMP is done, this will go away. -LLD
+
 * Be sure to have recent drivers for your video card installed.
 
 * Though you probably already have it installed on your Windows system, if you get a runtime error you may need to install Visual C++ redistributable. These are available from Microsoft at:
